@@ -11,3 +11,6 @@ LeetCode 문제 풀이
   
 * Top K Frequent Words
   * [Problem](https://leetcode.com/problems/top-k-frequent-words/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/TopKFrequentWords.cpp)
+  
+* Employee Importance
+  * [Problem](https://leetcode.com/problems/employee-importance/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/EmployeeImportance.cpp)
