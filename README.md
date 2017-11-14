@@ -14,3 +14,6 @@ LeetCode 문제 풀이
   
 * Employee Importance
   * [Problem](https://leetcode.com/problems/employee-importance/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/EmployeeImportance.cpp)
+
+* Top K Freequent Elements
+  * [Problem](https://leetcode.com/problems/top-k-frequent-elements/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/TopKFreequentElements.cpp)
