@@ -17,3 +17,6 @@ LeetCode 문제 풀이
 
 * Top K Freequent Elements
   * [Problem](https://leetcode.com/problems/top-k-frequent-elements/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/TopKFreequentElements.cpp)
+  
+* Palindrome Number
+  * [Problem](https://leetcode.com/problems/palindrome-number/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/PalindromeNumber.cpp)
