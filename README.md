@@ -27,6 +27,6 @@ LeetCode 문제 풀이
 * Kth Largest Element in an Array
   * [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/KthLargestElementInAnArray.java)
   
- * Hamming Distance
+* Hamming Distance
   * [Problem](https://leetcode.com/problems/hamming-distance/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/HammingDistance.java) 
 
