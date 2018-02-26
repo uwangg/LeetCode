@@ -20,3 +20,12 @@ LeetCode 문제 풀이
   
 * Palindrome Number
   * [Problem](https://leetcode.com/problems/palindrome-number/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/PalindromeNumber.cpp)
+  
+* Min Cost Climbing Stairs
+  * [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/MinCostClimbingStairs.cpp)
+
+* Kth Largest Element in an Array
+  * [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/KthLargestElementInAnArray.java)
+  
+ * Hamming Distance
+  * [Problem](https://leetcode.com/problems/hamming-distance/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/HammingDistance.java) 
