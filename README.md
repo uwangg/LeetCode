@@ -29,4 +29,19 @@ LeetCode 문제 풀이
   
 * Hamming Distance
   * [Problem](https://leetcode.com/problems/hamming-distance/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/HammingDistance.java) 
+  
+* Custom Sort String
+  * [Problem](https://leetcode.com/problems/custom-sort-string/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/CustomSortString.java)
+  
+* Self Dividing Numbers
+  * [Problem](https://leetcode.com/problems/self-dividing-numbers/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/SelfDividingNumbers.java)
+  
+* Shortest Unsorted Continuous Subarray
+  * [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/ShortestUnsortedContinuousSubarray.java)
+  
+* Reverse Integer
+  * [Problem](https://leetcode.com/problems/reverse-integer/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/ReverseInteger.java)
+  
+* Move Zeroes
+  * [Problem](https://leetcode.com/problems/move-zeroes/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/MoveZeroes.java)
 
