@@ -53,3 +53,6 @@ LeetCode 문제 풀이
   
 * Find Largest Value in Each Tree Row
   * [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/FindLargestValueInEachTreeRow.java)
+
+* Search Insert Position
+  * [Problem](https://leetcode.com/problems/search-insert-position/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/SearchInsertPosition.js)
