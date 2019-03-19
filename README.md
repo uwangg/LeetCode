@@ -56,3 +56,18 @@ LeetCode 문제 풀이
 
 * Search Insert Position
   * [Problem](https://leetcode.com/problems/search-insert-position/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/SearchInsertPosition.js)
+  
+* Single Number
+  * [Problem](https://leetcode.com/problems/single-number/description/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/SingleNumber.js)
+  
+* Find All Numbers Disappeared in an Array
+  * [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/FindAllNumbersDisappearedInAnArray.js)
+
+* Merge Two Sorted Lists
+  * [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/MergeTwoSortedLists.js)
+  
+* Jewels and Stones 
+  * [Problem](https://leetcode.com/problems/jewels-and-stones/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/JewelsAndStones.js)
+  
+* Reverse Words in a String III 
+  * [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) / [Solution](https://github.com/uwangg/LeetCode/blob/master/Code/ReverseWorldsInAString3.js)
